@@ -1,0 +1,1 @@
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo

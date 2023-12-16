@@ -1,0 +1,41 @@
+| nome libro: I promessi sposi | numero pagine: 720 | autore: Alessandro Manzoni | genere: storico
+| nome libro: Storia della colonna infame | numero pagine: 200 | autore: Alessandro Manzoni | genere: storico
+| nome libro: Guerra e pace | numero pagine: 1225 | autore: Lev Tolstoi | genere: storico
+| nome libro: Anna Karenina | numero pagine: 864 | autore: Lev Tolstoi | genere: storico
+| nome libro: Donne al potere | numero pagine: 300 | autore: Bruno Vespa | genere: romanzo
+| nome libro: La grande tempesta | numero pagine: 320 | autore: Bruno Vespa | genere: romanzo
+| nome libro: Misery | numero pagine: 370 | autore: Stephen King | genere: giallo
+| nome libro: IT | numero pagine: 1138 | autore: Stephen King | genere: giallo
+| nome libro: Shining | numero pagine: 447 | autore: Stephen King | genere: giallo
+| nome libro: Il vecchio e il mare | numero pagine: 127 | autore: Ernest Hemingway | genere: storico
+| nome libro: Per chi suona la campana | numero pagine: 480 | autore: Ernest Hemingway | genere: storico
+| nome libro: Fiesta | numero pagine: 320 | autore: Ernest Hemingway | genere: storico
+| nome libro: Il nome della rosa | numero pagine: 512 | autore: Umberto Eco | genere: romanzo
+| nome libro: Foucault’s Pendulum | numero pagine: 641 | autore: Umberto Eco | genere: romanzo
+| nome libro: Va dove ti porta il cuore | numero pagine: 208 | autore: Susanna Tamaro | genere: romanzo
+| nome libro: Gita al faro | numero pagine: 209 | autore: Virginia Woolf | genere: horror
+| nome libro: Orlando | numero pagine: 264 | autore: Virginia Woolf | genere: horror
+| nome libro: Assassinio sull'Orient Express | numero pagine: 256 | autore: Agatha Christie | genere: romanzo
+| nome libro: Sipario | numero pagine: 224 | autore: Agatha Christie | genere: romanzo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo
+| nome libro: Il sussurratore | numero pagine: 350 | autore: Umberto Eco | genere: giallo

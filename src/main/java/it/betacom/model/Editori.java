@@ -4,7 +4,7 @@ public class Editori {
 	private int id;
 	private String nome;
 	
-	private Editori(int id, String nome) {
+	public Editori(int id, String nome) {
 		this.id = id;
 		this.nome = nome;
 	}

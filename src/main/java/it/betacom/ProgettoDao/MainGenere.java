@@ -6,7 +6,9 @@ import java.sql.SQLException;
 import java.util.List;
 
 import it.betacom.db.DBHandler;
+import it.betacom.implement.EditoriDaoImpl;
 import it.betacom.implement.GenereDaoImpl;
+import it.betacom.model.Editori;
 import it.betacom.model.Genere;
 
 
@@ -14,13 +16,14 @@ import it.betacom.model.Genere;
  * Hello world!
  *
  */
-public class App 
+public class MainGenere 
 {
 
 	
     public static void main( String[] args )
     {
     	GenereDaoImpl genereDaoImpl = new GenereDaoImpl();
+    	
     	
     	//stampo tutti i generi
     	System.out.println("*************stampo tutti i generi**************");
@@ -57,5 +60,6 @@ public class App
     	System.out.println("************stampo per verificare la modifica***************");
     	genereDaoImpl.getAllGenere();
     	rosa = null;
+    	
     }
 }

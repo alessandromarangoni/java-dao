@@ -48,7 +48,7 @@ public class GenereDaoImpl implements GenereDao {
 	        stmt.setString(1, genere.getDescrizione());
 	        stmt.executeUpdate();
 	        rs = stmt.getGeneratedKeys();
-	        if (rs.next()) { 
+	        if (rs.next()) {
 	            genere.setId(rs.getInt(1));
 	        }
 			 rs.close();
@@ -71,7 +71,7 @@ public class GenereDaoImpl implements GenereDao {
 			ResultSet rs = stmt.executeQuery();
 			if(rs.next()) {
 				descrizione = rs.getString("descrizione");
-				System.out.println(descrizione);
+//				System.out.println(descrizione);
 			}
 			genere = new Genere(idGenere, descrizione);
 			rs.close();
